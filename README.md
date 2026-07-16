@@ -28,3 +28,8 @@ Install the `.spl` via Splunk Web. After a viz-code update, bump Splunk's static
 cache (`/en-US/_bump`) or restart, then hard-refresh.
 
 Framework: `@splunk/dashboard-studio-extension`. Passes Splunk Cloud AppInspect (cloud tags).
+
+## Related repositories
+
+- **[oura-health-splunk](https://github.com/narwhaldc/oura-health-splunk)** — the Splunk app + ingest pipeline this viz was built for
+- **[hypnogram_viz](https://github.com/narwhaldc/hypnogram_viz)** — companion stepped lane-timeline (hypnogram) viz

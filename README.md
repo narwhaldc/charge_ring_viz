@@ -33,3 +33,7 @@ Framework: `@splunk/dashboard-studio-extension`. Passes Splunk Cloud AppInspect 
 
 - **[oura-health-splunk](https://github.com/narwhaldc/oura-health-splunk)** — the Splunk app + ingest pipeline this viz was built for
 - **[hypnogram_viz](https://github.com/narwhaldc/hypnogram_viz)** — companion stepped lane-timeline (hypnogram) viz
+
+## License
+
+Apache License 2.0 — see [LICENSE](LICENSE). Copyright 2026 Tony Vincent.

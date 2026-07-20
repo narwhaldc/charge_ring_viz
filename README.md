@@ -5,6 +5,8 @@ colored ring fill with a high-contrast value, an animated dock + cable while
 charging, and an optional last-sync readout. Built for the companion
 **oura_health** Ring dashboard, but generic for any device's battery/charge state.
 
+**GA release set:** oura_health 2.0.1 · hypnogram_viz 1.0.1 · **charge_ring_viz 1.0.0** (all AppInspect Cloud-clean). Grab the `.spl` from this repo's [latest release](https://github.com/narwhaldc/charge_ring_viz/releases/latest); a full Splunk restart makes the viz JS render.
+
 **Viz type string:** `charge_ring_viz.chargestatus`
 
 ## Data contract
